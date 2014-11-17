@@ -1,0 +1,9 @@
+[Tue Oct 28 21:31:32.180916 2014] [:error] [pid 31934] [client 82.146.38.119:62667] script '/home/jebik/CV/wp-login.php' not found or unable to stat
+[Tue Oct 28 21:31:32.796082 2014] [:error] [pid 31934] [client 82.146.38.119:62667] script '/home/jebik/CV/admin.php' not found or unable to stat
+[Wed Nov 12 08:21:15.233599 2014] [:error] [pid 28572] [client 194.199.7.22:45355] PHP Notice:  Undefined index: subject in /home/jebik/CV/php/contact-form.php on line 12, referer: http://jebik.fr/js/main.js
+[Wed Nov 12 08:21:15.257843 2014] [:error] [pid 28572] [client 194.199.7.22:45355] PHP Notice:  Undefined index: name in /home/jebik/CV/php/contact-form.php on line 16, referer: http://jebik.fr/js/main.js
+[Wed Nov 12 08:21:15.257860 2014] [:error] [pid 28572] [client 194.199.7.22:45355] PHP Notice:  Undefined index: email in /home/jebik/CV/php/contact-form.php on line 17, referer: http://jebik.fr/js/main.js
+[Wed Nov 12 08:21:15.257872 2014] [:error] [pid 28572] [client 194.199.7.22:45355] PHP Notice:  Undefined index: name in /home/jebik/CV/php/contact-form.php on line 22, referer: http://jebik.fr/js/main.js
+[Wed Nov 12 08:21:15.257884 2014] [:error] [pid 28572] [client 194.199.7.22:45355] PHP Notice:  Undefined index: email in /home/jebik/CV/php/contact-form.php on line 26, referer: http://jebik.fr/js/main.js
+[Wed Nov 12 08:21:15.257892 2014] [:error] [pid 28572] [client 194.199.7.22:45355] PHP Notice:  Undefined index: message in /home/jebik/CV/php/contact-form.php on line 30, referer: http://jebik.fr/js/main.js
+[Wed Nov 12 08:21:15.257957 2014] [:error] [pid 28572] [client 194.199.7.22:45355] PHP Notice:  Undefined index: name in /home/jebik/CV/php/contact-form.php on line 53, referer: http://jebik.fr/js/main.js
