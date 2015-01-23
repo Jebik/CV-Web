@@ -1125,7 +1125,7 @@ class PHPMailer {
    * @return bool
    * @access public
    */
-  function SetLanguage($langcode = 'en', $lang_path = 'language/') {
+  function SetLanguage($langcode = 'fr', $lang_path = 'language/') {
     //Define full set of translatable strings
     $PHPMAILER_LANG = array(
       'authenticate'         => 'SMTP Error: Could not authenticate.',
