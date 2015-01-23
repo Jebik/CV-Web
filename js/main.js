@@ -79,6 +79,7 @@
 				if (data.response == "success") {
 					$("#contactSuccess").fadeIn(300);
 					$("#contactError").addClass("hidden");
+					$("#contactLoad").addClass("hidden");
 
 					$("#contactForm #name, #contactForm #email, #contactForm #subject, #contactForm #message")
 					.val("")
@@ -90,6 +91,7 @@
 				} else {
 					$("#contactError").fadeIn(300);
 					$("#contactSuccess").addClass("hidden");
+					$("#contactLoad").addClass("hidden");
 				}
 			}
 
